@@ -34,3 +34,27 @@ Forward	Napastnik
 Defender	Obrońca
 Nationals	mistrzostwa krajowe
 regionals	prefektura
+\n	\n
+EPISODE: NEW HERO	EPIZOD: NOWY BOHATER
+EPISODE: NEW HERO	EPIZOD: NOWY BOHATER
+EPISODE: RISING STARS	EPIZOD: WSCHODĄCE GWIAZDY
+Nationals	zawody krajowe
+defender	OBROŃCA
+offense	atak
+quarterfinals	ćwierćfinały
+National finals	finały krajowe
+forward	napastnik
+sliding	ślizg
+dribbling	drybling
+passing	podania
+Assist Mode	Tryb asysty
+BGM	podkład muzyczny
+Regional Tournament	regionalny turniej
+Soccer Association	Związek Piłki Nożnej
+Coach	Trener
+keep practicing	ćwiczyć
+keep practicing	ćwicz
+Forward	Napastnik
+Defender	Obrońca
+Nationals	mistrzostwa krajowe
+regionals	prefektura
