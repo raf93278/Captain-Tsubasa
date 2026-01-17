@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7744,8 +7744,8 @@
       <tuv lang="en-GB">
         <seg>Really?</seg>
       </tuv>
-      <tuv lang="pl" changeid="PCM" changedate="20240430T221825Z" creationid="PCM" creationdate="20240430T221825Z">
-        <seg>Naprawdę?</seg>
+      <tuv lang="pl" changeid="PCM" changedate="20260117T190850Z" creationid="PCM" creationdate="20240430T221825Z">
+        <seg>UUNaprawdę?</seg>
       </tuv>
     </tu>
     <tu>
@@ -11120,8 +11120,8 @@
       <tuv lang="en-GB">
         <seg>Yeah.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PCM" changedate="20240504T134747Z" creationid="PCM" creationdate="20240504T134747Z">
-        <seg>Tak.</seg>
+      <tuv lang="pl" changeid="PCM" changedate="20260117T191546Z" creationid="PCM" creationdate="20240504T134747Z">
+        <seg>UUUUUUUUTak.</seg>
       </tuv>
     </tu>
     <tu>
